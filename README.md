@@ -10,11 +10,13 @@
  
  - Python 
  - Rust Lang
+ - Git
  - PostgreSQL
  - Django
  - Django Rest FrameWork
  - FastAPI
  - Playwright
+ 
 
 ### Curiosidades:
  Já tive contato com Analise de dados e Tratamento de dados em Python mas não me aprofundei, também já criei softwares escalaveis privados em Pyqt5/Pyside para desktop tenho amplo conhecimentos na principais bibliotecas do python como Numpy, os, Matplotlib, Pandas, BeatifulSoup, Shutil entre outras...
