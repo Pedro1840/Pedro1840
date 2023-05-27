@@ -9,6 +9,7 @@
  ### Conhecimentos:
  
  - Python 
+ - Rust Lang
  - PostgreSQL
  - Django
  - Django Rest FrameWork
