@@ -1,4 +1,4 @@
-## Olá me chamo Pedro Souza Desenvolvedor Python | Django | Django Rest FrameWork
+## Olá me chamo Pedro Souza sou Desenvolvedor Python | Django | Django Rest FrameWork
 
 ### Sobre:
 
