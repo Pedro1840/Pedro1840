@@ -15,7 +15,9 @@
  #### Tecnologias e mais
  - Git
  - PostgreSQL
+ - MySQL
  - Django
+ - Tauri
  - FastAPI
  - Playwright
  
