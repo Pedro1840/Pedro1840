@@ -3,7 +3,7 @@
 
  - 💻  Estudo Python a 3 anos e trabalho com a linguagem a mais de 2 anos;
  - 📖  Atualmente estou cursando o ensino superior em Engenharia de Software;
- - 🔎  Meu foco atualmente é me aperfeiçoar cada vez mais no Rust e no framework Tauri;
+ - 🔎  Meu foco atual é melhorar cada vez mais no Rust e no framework Tauri;
  
  ### Conhecimentos:
 
