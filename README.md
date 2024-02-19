@@ -33,7 +33,10 @@ Fun Facts: Proficient in Python data analysis and data manipulation, also have e
   <img align="center" alt="Pedro-FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Pedro-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-line.svg">
 </div>
-##
+</div>
+
+   ##
+<div> 
 <div> 
   <a href="https://www.instagram.com/pedro_sou18/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrocontato1840@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
