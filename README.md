@@ -1,7 +1,7 @@
 ## Olá me chamo Pedro Souza sou Desenvolvedor Python | Rust
 ### Sobre:
 
- - 💻  Estudo Python a 3 anos e trabalho com a linguagem a mais de 2 anos;
+ - 💻  Estudo Python a 4 anos e trabalho com a linguagem a mais de 3 anos;
  - 📖  Atualmente estou cursando o ensino superior em Engenharia de Software;
  
  ### Conhecimentos:
@@ -20,7 +20,7 @@
  - Playwright
  
 
-### Curiosidades: Analise de dados e Tratamento de dados em Python, também já criei softwares escalaveis privados em Pyqt5/Pyside para desktop tenho amplo conhecimentos na principais bibliotecas do python como Numpy, os, Matplotlib, Pandas, BeatifulSoup, Shutil entre outras...
+### Curiosidades: Analise de dados e Tratamento de dados em Python, também já criei softwares escalaveis privados para desktop tenho amplo conhecimentos na principais bibliotecas do Python | Rust
 
 
 <div align="center">
