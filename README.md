@@ -1,4 +1,4 @@
-## Olá me chamo Pedro Souza sou Desenvolvedor Python | Rust
+## Olá me chamo Pedro Souza sou Desenvolvedor Back-end Python | Rust | Rust
 ### Sobre:
 
  - 💻  Estudo Python a 4 anos e trabalho com a linguagem a mais de 3 anos;
