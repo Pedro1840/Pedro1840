@@ -36,7 +36,7 @@
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Pedro-FastApi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Pedro-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+  <img align="center" alt="Pedro-Rust" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-line.svg)">
 </div>
   
    ##
