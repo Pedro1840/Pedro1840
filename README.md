@@ -18,6 +18,8 @@ Technologies and more
     Tauri
     FastAPI
     Playwright
+    Docker
+    AWS and more...
 
 Fun Facts: Proficient in Python data analysis and data manipulation, also have experience in developing scalable desktop applications and extensive knowledge in the main Python | Rust libraries
 <div align="center">
