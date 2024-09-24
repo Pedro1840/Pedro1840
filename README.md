@@ -18,9 +18,8 @@ Technologies and more
     Django / FastAPI
     Playwright / Selenium
     Docker / AWS
-
-    Front End:
     React / Angular
+    
 
 Fun Facts: Proficient in Python data analysis and data manipulation, also have experience in developing scalable desktop applications and extensive knowledge in the main Python | Rust libraries
 <div align="center">
