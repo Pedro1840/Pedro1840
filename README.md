@@ -1,4 +1,4 @@
-## Hello, my name is Pedro Souza and I am a Python | Rust | TypeScript Back-end Developer
+## Hello, my name is Pedro Souza and I am a Python | Rust | TypeScript Full-Stack Developer
 About Me:
 
     💻 I have been studying Python for 4 years and working with the language for over 3 years;
@@ -11,15 +11,16 @@ Languages
     TypeScript
 
 Technologies and more
+    Back End:
     Git
-    PostgreSQL
-    MySQL
-    Django
-    Tauri
-    FastAPI
-    Playwright
-    Docker
-    AWS and more...
+    PostgreSQL / MySQL
+    Electron / Tauri
+    Django / FastAPI
+    Playwright / Selenium
+    Docker / AWS
+
+    Front End:
+    React / Angular
 
 Fun Facts: Proficient in Python data analysis and data manipulation, also have experience in developing scalable desktop applications and extensive knowledge in the main Python | Rust libraries
 <div align="center">
