@@ -11,7 +11,6 @@ Languages
     TypeScript
 
 Technologies and more
-    Back End:
     Git
     PostgreSQL / MySQL
     Electron / Tauri
