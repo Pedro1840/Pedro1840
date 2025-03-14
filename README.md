@@ -2,16 +2,6 @@
 
 I'm a **Python | Rust | TypeScript Full-Stack Developer** passionate about building scalable and efficient software solutions.
 
----
-
-## About Me
-
-- 💻 **4 years** studying Python; **3+ years** working with it in production.
-- 📖 Currently pursuing a degree in **Software Engineering**.
-- I'm constantly learning and exploring new technologies to solve real-world problems.
-
----
-
 ## Skills & Technologies
 
 ### Languages
